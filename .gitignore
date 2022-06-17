@@ -4,5 +4,10 @@ dist
 .rvmrc
 .ruby-version
 *.rbc
+.bundle
+vendor
+.DS_Store
+Gemfile
+Gemfile.lock
 
 *~
